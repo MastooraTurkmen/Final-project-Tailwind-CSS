@@ -1,4 +1,4 @@
-# cPJZqqC3
+# Landing page
 
 Quick start:
 
