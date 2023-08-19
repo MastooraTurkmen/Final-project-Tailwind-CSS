@@ -1,0 +1,20 @@
+Want to learn Tailwind CSS?
+Tailwind is the fastest growing utility-first CSS framework. Let's learn it step by step.
+
+How It Works
+Tailwind is designed for rapid development of modern applications. At its core, it is a robust mobile-first design system built with developer experience in mind. After using Tailwind CSS, you will find it difficult to go back to use anything else. Learn all about it in this all-inclusive course.
+
+Advantages
+
+No Custom CSS
+Tailwind's advanced class extraction will leave your project free of custom CSS.
+
+Developer Experience
+Tailwind is designed with your happiness in mind. The ease of performing changes is refreshing.
+
+Mobile Friendly
+Modern applications demand mobile-friendly & Tailwind's responsive modifiers make it easy.
+
+Sign up to download the free PDF
+
+Copyright © 2019 Scrimba
